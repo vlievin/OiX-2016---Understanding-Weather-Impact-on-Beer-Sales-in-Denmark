@@ -8,3 +8,4 @@
 *.txt
 *.docx
 *.pyc
+.ipynb_checkpoints/
